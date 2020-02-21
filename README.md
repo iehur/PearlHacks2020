@@ -4,7 +4,7 @@ PearlHacks 2020 workshop
 ## Pre-requisites
 ### Clone Git Repository
 1. Navigate to your working directory from command line or terminal
-2. Enter this command: `git clone https://github.com/iehur/MyWeatherApp`
+2. Enter this command: `https://github.com/iehur/PearlHacks2020.git`
 
 ### Install Android Studio
 1. Navigate to this link: https://developer.android.com/studio
